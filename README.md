@@ -1,2 +1,2 @@
 # Customer-Segmentation
-Customer satisfaction of a brand’s apparel
+Customer segmentation of a brand’s apparel
